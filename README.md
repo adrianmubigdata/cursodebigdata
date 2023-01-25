@@ -1,6 +1,11 @@
 # cursodebigdata
-Día 23/01/2023
+MÓDULO 1
+DÍA 1 (23/01/2023)
 
-Módulo 1.
 Lenguaje Python. Archivo pptx. GoogleColab.
 Archivos utilizados: Curso BigData Presentación. Adrián Muñoz Introducción GoogleColab. 
+M1 - 01 - Python Notebook
+
+DÍA 2 (24/01/2023)
+Adrian Muñoz de M1 - 02 - Python Notebook.ipynb
+Adrian de M1 - 03 - Condicionales.ipynb
